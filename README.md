@@ -46,12 +46,17 @@
 
 
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rano1999&show_icons=true&locale=en&layout=compact" alt="rano1999" /></p>
+</br>
 
+<h3>📈 GitHub Stats</h3> 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rano1999&show_icons=true&theme=dark&count_private=true" alt="rano1999" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rano1999&" alt="rano1999" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rano1999&show_icons=true&locale=en&layout=compact" alt="rano1999" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rano1999&show_icons=true&locale=en" alt="rano1999" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rano1999&" alt="rano1999" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rano1999&label=Profile%20views&color=0e75b6&style=flat" alt="rano1999" /> </p>
+</br>
+</br>
+</br>
+</br>
+<p></P>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rano1999&label=Profile%20views&color=0e75b6&style=flat" alt="rano1999" /> </p>
 

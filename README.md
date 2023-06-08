@@ -37,9 +37,10 @@
 </br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rano1999&theme=algolia" alt="rano1999"  alt="Thelalitagarwal"  /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rano1999&show_icons=true&theme=algolia" alt="rano1999" height="205" width="1000"/>
+<h5>Just a Snake 🐍 Eating away my Contributions...😭</h5>
   
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-  
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 

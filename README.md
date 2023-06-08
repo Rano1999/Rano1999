@@ -50,7 +50,7 @@
 </br>
 
 <h3>📈 GitHub Stats</h3> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rano1999&show_icons=true&theme=dark&count_private=true" alt="rano1999" height="221" width="400"/><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rano1999&" alt="rano1999" height="220" width="400" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rano1999&show_icons=true&theme=dark&count_private=true" alt="rano1999" height="200" width="450"/><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rano1999&" alt="rano1999" height="200" width="450" /></p>
 <p></p>
 
 <p></P>

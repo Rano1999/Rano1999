@@ -54,5 +54,5 @@
 <p></p>
 
 <p></P>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rano1999&label=Profile%20views&color=0e75b6&style=flat" alt="rano1999" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rano1999&label=Profile%20views&color=0e75b6&style=flat" alt="rano1999" height="200" width="500"/> </p>
 

@@ -13,6 +13,18 @@
 - 📫 How to reach me **ranojoydas0107@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny !! If you have any question/feedback, please do not hesitate to reach out to me!!**
+</br>
+</p>
+<h3 align="left">Languages and Tools:</h5>
+<h5>Technical Skills</h6>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,html,css,dotnet,mysql,sqlite,git,github,vscode,visualstudio," />
+  </a>
+</p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,17 +45,7 @@
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/rano1999/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/rano1999/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
 
 
-</p>
 
-<h3 align="left">Languages and Tools:</h5>
-</br>
-<h5>Technical Skills</h6>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,html,css,dotnet,mysql,sqlite,git,github,vscode,visualstudio," />
-  </a>
-</p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rano1999&show_icons=true&locale=en&layout=compact" alt="rano1999" /></p>

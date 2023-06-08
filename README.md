@@ -50,9 +50,9 @@
 </br>
 
 <h3>📈 GitHub Stats</h3> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rano1999&show_icons=true&theme=dark&count_private=true" alt="rano1999" height="200" width="500"/><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rano1999&" alt="rano1999" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rano1999&show_icons=true&theme=dark&count_private=true" alt="rano1999" height="200" width="500"/><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rano1999&" alt="rano1999" height="200" width="500" /></p>
 <p></p>
 
 <p></P>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rano1999&label=Profile%20views&color=0e75b6&style=flat" alt="rano1999" height="200" width="500"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rano1999&label=Profile%20views&color=0e75b6&style=flat" alt="rano1999" /> </p>
 

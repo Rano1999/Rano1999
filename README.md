@@ -54,7 +54,7 @@
 </br>
 </br>
 </br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rano1999&" alt="rano1999" /></p>
+
 
 </br>
 </br>

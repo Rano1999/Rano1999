@@ -47,8 +47,9 @@
 
 
 
+
+<h3>📈 GitHub Stats</h3>
 </br>
-<h3>📈 GitHub Stats</h3> 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rano1999&theme=algolia" alt="rano1999"  alt="Thelalitagarwal"  /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rano1999&show_icons=true&theme=algolia" alt="rano1999" height="205" width="1000"/>
 

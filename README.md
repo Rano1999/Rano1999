@@ -48,13 +48,11 @@
 
 
 </br>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Thelalitagarwal&theme=algolia" alt="Thelalitagarwal"  /></p>
-
-
 <h3>📈 GitHub Stats</h3> 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rano1999&theme=algolia" alt="rano1999"   height="200" width="411"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rano1999&show_icons=true&theme=dark&count_private=true" alt="rano1999" height="200" width="411"/>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rano1999&theme=algolia" alt="rano1999"  alt="Thelalitagarwal"  /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rano1999&show_icons=true&theme=dark&count_private=true" alt="rano1999"/>
+
+
 <p></p>
 
 <p></P>

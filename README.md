@@ -35,9 +35,9 @@
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h5>
 </br>
-<h6>Technical Skills</h6>
+<h5>Technical Skills</h6>
 
 <p align="left">
   <a href="https://skillicons.dev">

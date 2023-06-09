@@ -1,6 +1,6 @@
 <p align="center"><img src="https://media.tenor.com/cBUtv3HOBh4AAAAC/header.gif" height="205" width="2000"/></p>
-<h1 align="center">Hi 👋, I'm Ranojoy</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h1 align="center">Hii I'm Ranojoy</h1>
+<h4 align="center">A passionate Software Engineer from India</h4>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 

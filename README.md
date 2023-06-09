@@ -1,4 +1,4 @@
-
+<p align="center"><img src="https://media.tenor.com/cBUtv3HOBh4AAAAC/header.gif" height="205" width="2000"/></p>
 <h1 align="center">Hi 👋, I'm Ranojoy</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I think I'm funny !! If you have any question/feedback, please do not hesitate to reach out to me!!**
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" ></a>
 </br>
 </p>
 <h3 align="left">Languages and Tools:</h5>
@@ -28,7 +28,7 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rano1999&show_icons=true&locale=en&layout=compact" alt="rano1999" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rano1999&show_icons=true&locale=en&layout=compact" alt="rano1999" height="205" width="500"/></p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 

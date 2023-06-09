@@ -42,23 +42,8 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 
-<a href="https://www.linkedin.com/in/ranojoydas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ranojoydas" height="30" width="40" /></a>
-
-
-<a href="https://www.facebook.com/ranojoy.das.33?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ranojoy.das.33?mibextid=zbwkwl" height="30" width="40" /></a>
-
-
-<a href="https://instagram.com/https://www.instagram.com/the._crazy_soul/?igshid=mznlngnkzwq4mg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/the._crazy_soul/?igshid=mznlngnkzwq4mg%3d%3d" height="30" width="40" /></a>
-
-
-<a href="https://www.youtube.com/c/https://www.youtube.com/@rano5890" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-
-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@rano5890" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rano1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rano1999" height="30" width="40" /></a>
-
-
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/rano1999/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/rano1999/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ranojoy.das.33" target="_blank"><img src="https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-circle-large-transparent-png.png" height="40" width="40"/></a>&nbsp;<a href="https://www.instagram.com/the._crazy_soul/?igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank"><img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png" height="40" width="40"/></a>&nbsp;<a href="https://www.youtube.com/@rano5890" target="_blank"><img src="https://www.freepnglogos.com/uploads/youtube-play-red-logo-png-transparent-background-6.png" height="40" width="50"/></a>&nbsp;<a href="https://www.linkedin.com/in/ranojoy-das-6538371a0" target="_blank"><img src="https://freelogopng.com/images/all_img/1656996409linkedin-symbol.png" height="40" width="40"/></a>&nbsp;<a href="https://github.com/Rano1999" target="_blank"><img src="https://img.icons8.com/?size=512&id=AZOZNnY73haj&format=png" height="47" width="47"/></a>&nbsp;<a href="https://auth.geeksforgeeks.org/user/rano1999/practice" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqvFVpivQkBMns3rV68nBe2xMaJaD9pStMOfdtBDRkEYH-Sy3Nns__vsVt-nM1c5KxiuM&usqp=CAU" height="40" width="40"/></a>&nbsp;<a href="https://www.leetcode.com/rano1999" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="45" width="45"/></a>
   
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
